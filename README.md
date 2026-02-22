@@ -205,3 +205,8 @@ https://localhost:44393/swagger
 ### Registros en Base de Datos
 
 ![Base de Datos](screenshots/database.png)
+
+---
+### Manejo de versiones en Git
+
+![Base de Datos](screenshots/image.png)
