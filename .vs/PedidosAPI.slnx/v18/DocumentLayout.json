@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|solutionrelative:services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|solutionrelative:database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|solutionrelative:models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|solutionrelative:controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|solutionrelative:services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +45,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\models\\logauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|solutionrelative:models\\logauditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|c:\\users\\hp\\documents\\c#\\pedidosapi\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{1CBF09B4-AD2E-A468-80DA-A842BC9E239E}|PedidosAPI.csproj|solutionrelative:database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T04:18:24.989Z",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-02-22T07:49:41.537Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "database.sql ",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\database.sql",
+              "RelativeDocumentMoniker": "database.sql",
+              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\database.sql",
+              "RelativeToolTip": "database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-22T08:02:52.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PedidoService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Services\\PedidoService.cs",
               "RelativeDocumentMoniker": "Services\\PedidoService.cs",
@@ -76,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PedidoCabecera.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Models\\PedidoCabecera.cs",
               "RelativeDocumentMoniker": "Models\\PedidoCabecera.cs",
@@ -84,12 +109,11 @@
               "RelativeToolTip": "Models\\PedidoCabecera.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T04:25:33.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T04:25:33.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PedidosController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Controllers\\PedidosController.cs",
               "RelativeDocumentMoniker": "Controllers\\PedidosController.cs",
@@ -97,12 +121,11 @@
               "RelativeToolTip": "Controllers\\PedidosController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAlwDkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T04:31:51.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T04:31:51.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PedidoDetalle.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Models\\PedidoDetalle.cs",
               "RelativeDocumentMoniker": "Models\\PedidoDetalle.cs",
@@ -116,6 +139,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T04:18:24.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -123,12 +158,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAEwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T03:59:43.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T03:59:43.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -136,12 +170,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-22T04:18:40.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T04:18:40.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PedidoRequest.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\DTOs\\PedidoRequest.cs",
               "RelativeDocumentMoniker": "DTOs\\PedidoRequest.cs",
@@ -153,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LogAuditoria.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\C#\\PedidosAPI\\Models\\LogAuditoria.cs",
               "RelativeDocumentMoniker": "Models\\LogAuditoria.cs",

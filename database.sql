@@ -1,0 +1,34 @@
+USE master;
+GO
+
+DROP DATABASE PedidosDB;
+GO
+
+CREATE DATABASE PedidosDB;
+GO
+
+USE PedidosDB;
+GO
+
+CREATE TABLE PedidoCabeceras(
+ Id INT IDENTITY PRIMARY KEY,
+ ClienteId INT,
+ Fecha DATETIME,
+ Total DECIMAL(18,2),
+ Usuario NVARCHAR(100)
+);
+
+CREATE TABLE PedidoDetalles(
+ Id INT IDENTITY PRIMARY KEY,
+ PedidoId INT,
+ ProductoId INT,
+ Cantidad INT,
+ Precio DECIMAL(18,2)
+);
+
+CREATE TABLE LogAuditorias(
+ Id INT IDENTITY PRIMARY KEY,
+ Fecha DATETIME,
+ Evento NVARCHAR(50),
+ Descripcion NVARCHAR(200)
+);
