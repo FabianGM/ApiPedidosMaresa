@@ -64,7 +64,7 @@ Editar el archivo `appsettings.json`:
 "ConnectionStrings": {
   "Default": "Server=localhost\\SQLEXPRESS;Database=PedidosDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
-
+```
 ---
 
 ## Guía: Clonar el Repositorio
@@ -80,7 +80,7 @@ Clonar el proyecto desde GitHub:
 
 ```bash
 git clone https://github.com/FabianGM/ApiPedidosMaresa.git
-
+```
 ### Ingresar a la carpeta del proyecto:
 
 cd ApiPedidosMaresa
@@ -198,7 +198,7 @@ https://localhost:44393/swagger
 ### Swagger en Ejecución
 ### Ejecución Exitosa del Endpoint
 
-![Post OK](screenshots/post-ok.png)
+![Post OK](screenshots/screenshotspost-ok.png)
 
 ---
 
