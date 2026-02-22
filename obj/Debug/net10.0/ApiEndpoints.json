@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PedidosAPI.Controllers.PedidosController",
+    "Method": "CrearPedido",
+    "RelativePath": "api/pedidos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PedidosAPI.DTOs.PedidoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
